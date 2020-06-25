@@ -1,0 +1,3 @@
+torch == 1.5.1+cu101
+sklearn == 0.22.2.post1
+numpy == 1.14.5
