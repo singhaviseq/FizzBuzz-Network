@@ -1,6 +1,6 @@
 # FizzBuzz-Network using PyTorch
 Have you ever played the game FizzBuzz.? 
-This game has been used as a fun example by ![Joel Grus](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) ( Research Engineer at AI2 ) , which teaches children about Division. 
+This game has been used as a fun example by [Joel Grus](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) ( Research Engineer at AI2 ) , which teaches children about Division. 
 
 ### Problem Framing:
 
@@ -12,4 +12,7 @@ We formulate the problem as simple classification task where the problem classif
 
 We also converted the input number to binary-encoded form, which is easier for the network to process than whole numbers.
 
-Although this particular example doesn't solve any practical problem but it's a fun way to see how a Neural Net works. As I've been learning PyTorch, I decided to give it's implementation a try.
+![github](https://user-images.githubusercontent.com/39975627/85650224-abc5d080-b6c2-11ea-91cf-241975735532.jpg)
+
+
+Although this particular example doesn't solve any practical problem but it's a fun way to see how a Neural Net works. As I've been learning PyTorch, I implemented this in PyTorch for fun.
